@@ -1,6 +1,5 @@
 import logging
 import os
-import pkg_resources
 import subprocess
 import sys
 import traceback
